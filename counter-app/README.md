@@ -1,5 +1,5 @@
 # A simple counter-App using [React.js](https://reactjs.org)
-12/18/2023 CHG 1
+12/18/2023 CHG 2
 
 > **This tiny application is like adding,removing,deleting, resetting products which reflects in the total number of products into our shopping cart.**
 
